@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shun74
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Cmoputer vision and Robotics
 - 🌱 I’m currently learning Computer Science in my Colleage
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
